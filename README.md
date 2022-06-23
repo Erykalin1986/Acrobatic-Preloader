@@ -1,1 +1,3 @@
-# Acrobatic-Preloader
+# Acrobatic-Preloader (Акробатичный лоадер)
+
+Нестандартный лоадер выполнен с помощью SVG и CSS-анимации.
